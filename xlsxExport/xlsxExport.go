@@ -2,8 +2,8 @@ package xlsxExport
 
 import (
 	"fmt"
+	"github.com/ifonly/go-report/model"
 	"github.com/tealeg/xlsx"
-	"zhaobin.com/report/model"
 )
 
 type Export struct {

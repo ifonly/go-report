@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/ifonly/go-report/model"
+	"github.com/ifonly/go-report/xlsxExport"
 	"github.com/tealeg/xlsx"
 	"strconv"
-	"zhaobin.com/report/model"
-	"zhaobin.com/report/xlsxExport"
 )
 
 func main() {

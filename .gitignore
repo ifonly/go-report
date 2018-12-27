@@ -1,0 +1,10 @@
+proto/api/target
+.classpath
+.project
+.settings
+*.class
+sdk/java/bin
+logs
+bin/go-report
+pid_files
+*~
