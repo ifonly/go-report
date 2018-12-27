@@ -9,3 +9,4 @@ bin/go-report
 pid_files
 *~
 .DS_Store
+*.xlsx
